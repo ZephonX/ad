@@ -2,3 +2,6 @@
 ||startup.umetrip.com^
 ||114.115.217.129^
 ||home.umetrip.com^
+||qde.qunar.com/preload^
+||homefront.qunar.com/front/splash/ad^
+||client.qunar.com/pitcher-proxy?qrt=p_splashAd^
