@@ -5,4 +5,4 @@
 ||qde.qunar.com/preload^
 ||homefront.qunar.com/front/splash/ad^
 ||client.qunar.com/pitcher-proxy?qrt=p_splashAd^
-||oss.umetrip.com/fs/advert*^
+||oss.umetrip.com/fs/advert/*^
