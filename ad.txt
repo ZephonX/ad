@@ -3,6 +3,6 @@
 ||114.115.217.129^
 ||home.umetrip.com^
 ||qde.qunar.com/preload^
-||homefront.qunar.com/front/splash/ad^
+||homefront.qunar.com^
 ||client.qunar.com/pitcher-proxy?qrt=p_splashAd^
-||oss.umetrip.com/fs/advert/*^
+||oss.umetrip.com^
