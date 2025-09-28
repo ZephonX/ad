@@ -1,5 +1,4 @@
-- '||discardrp.umetrip.com^$important'
-- '||startup.umetrip.com^$important'
-- '||114.115.217.129^$important'
-- '||home.umetrip.com^$important'
-- 
+- ||discardrp.umetrip.com^
+- ||startup.umetrip.com^
+- ||114.115.217.129^
+- ||home.umetrip.com^
