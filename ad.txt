@@ -6,3 +6,17 @@
 ||homefront.qunar.com^
 ||client.qunar.com/pitcher-proxy?qrt=p_splashAd^
 ||oss.umetrip.com^
+||pages.c-ctrip.com^$important
+||dimg*.c-ctrip.com^$important
+||pages.suanya.com^$important
+||docs.c-ctrip.com^$important
+||download*.ctrip.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+@@||szlong.weixin.qq.com^$important
+||tbexpand.alicdn.com^$important
+||pigeon.alicdn.com^$important
+||log.aliyuncs.com^$important
+||ad.10010.com^important
+||ad.admin.10010.com^$important
+||metok.sys.miui.com^$important
+@@||*push.*^$important
