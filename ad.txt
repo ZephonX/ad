@@ -20,3 +20,4 @@
 ||ad.admin.10010.com^$important
 ||metok.sys.miui.com^$important
 @@||*push.*^$important
+||open.kuaishouzt.com
