@@ -21,3 +21,4 @@
 ||metok.sys.miui.com^$important
 @@||*push.*^$important
 ||open.kuaishouzt.com
+||appcloud2.zhihu.com
