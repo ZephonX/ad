@@ -22,3 +22,11 @@
 @@||*push.*^$important
 ||open.kuaishouzt.com
 ||appcloud2.zhihu.com
+||dns.weibo.cn^$important
+||forecast.sina.cn^$important
+||sdkapp.uve.weibo.com^$important
+||down.apps.sina.cn^$important
+||bootpreload.uve.weibo.com^$important
+||dp.im.weibo.cn^$important
+||adimg.uve.weibo.com^$important
+||bootpreload.uve.weibo.com^$important
